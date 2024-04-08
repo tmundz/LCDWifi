@@ -8,7 +8,6 @@
 #include "freertos/event_groups.h"
 #include "freertos/task.h"
 #include "nvs_flash.h"
-
 #include "lwip/dns.h"
 #include "lwip/err.h"
 #include "lwip/sockets.h"
